@@ -1,2 +1,3 @@
-# Hi, I'm Rudra!
-![Snake animation](https://raw.githubusercontent.com/rudrapratap01/rudrapratap01/output/github-contribution-grid-snake.svg)
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
