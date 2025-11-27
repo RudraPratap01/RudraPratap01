@@ -30,7 +30,7 @@ Curious by nature, eager to learn, and excited to build cool things.
 
 ## 🧠 Tech I'm Exploring
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,python,html,css,git,github" />
+  <img src="https://skillicons.dev/icons?i=c,python" />
 </p>
 
 ---
@@ -50,12 +50,9 @@ Curious by nature, eager to learn, and excited to build cool things.
 
 ---
 
-## 🐍 Contribution Snake
-<p align="center">
-  <img src="https://raw.githubusercontent.com/RudraPratap01/RudraPratap01/output/github-contribution-grid-snake.svg" />
-</p>
-
----
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
 
 ## ✨ Random Dev Quote
 <p align="center">
