@@ -1,28 +1,75 @@
-# Hi, I'm Rudra Pratap....👋
-I'm a first-year college student who’s just started his journey into tech. I'm always curious, eager to learn, and excited to build new things.
+<h1 align="center">Hi, I'm <b>Rudra Pratap</b> 👋</h1>
 
-I’m currently exploring programming, development, and anything that helps me understand how technology really works.
+<p align="center">
+I'm a first-year college student who’s just started his journey into tech.<br>
+Curious by nature, eager to learn, and excited to build cool things.
+</p>
 
-🚀 What I'm doing right now:
+---
 
-   Learning the basics of coding
+<!-- Typing Animation -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=F39C12&size=24&center=true&vCenter=true&width=800&lines=Tech+Enthusiast+🔥;College+Freshman+%7C+Always+Learning+📚;Curiosity+Is+My+Superpower+💡;Building+Small+Projects+Everyday+🚀" />
+</p>
 
-   Experimenting with small projects
+---
 
-   Trying to grow every day
+## 🚀 What I'm Doing Right Now
+- 🌱 Learning the basics of coding  
+- 🛠 Experimenting with small projects  
+- 📈 Growing a little every single day  
 
-💡 What I believe in:
+---
 
-  Start small, stay consistent
+## 💡 What I Believe In
+- 🔸 Start small, stay consistent  
+- 🔸 Ask questions, stay curious  
+- 🔸 Always be open to learning  
 
-  Ask questions, stay curious
+---
 
-  Always be open to learning
+## 🧠 Tech I'm Exploring
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c,python,html,css,git,github" />
+</p>
 
-📬 Feel free to connect or drop tips — I’m always up for learning something new!
+---
 
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=RudraPratap01&show_icons=true&theme=radical" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RudraPratap01&layout=compact&theme=radical" height="160" />
+</p>
 
+---
 
-<div align="center">
-  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
-</div>
+## 🔥 GitHub Streak
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=RudraPratap01&theme=tokyonight" />
+</p>
+
+---
+
+## 🐍 Contribution Snake
+<p align="center">
+  <img src="https://raw.githubusercontent.com/RudraPratap01/RudraPratap01/output/github-contribution-grid-snake.svg" />
+</p>
+
+---
+
+## ✨ Random Dev Quote
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
+</p>
+
+---
+
+## 📬 Connect With Me
+
+<p align="center">
+  <a href="mailto:sambyalrudra16@gmail.com">
+    <img src="https://img.shields.io/badge/Email_Me-FF6F00?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+<p align="center">Always open to connect, learn, and grow!</p>
