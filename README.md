@@ -7,13 +7,6 @@ Curious by nature, eager to learn, and excited to build cool things.
 
 ---
 
-<!-- Typing Animation -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=F39C12&size=24&center=true&vCenter=true&width=800&lines=Tech+Enthusiast+🔥;+Always+Learning+📚;Curiosity+Is+My+Superpower+💡;Building+Small+Projects+Everyday+🚀" />
-</p>
-
----
-
 ## 🚀 What I'm Doing Right Now
 - 🌱 Learning the basics of coding  
 - 🛠 Experimenting with small projects  
@@ -30,22 +23,7 @@ Curious by nature, eager to learn, and excited to build cool things.
 
 ## 🧠 Tech I'm Exploring
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,python" />
-</p>
-
----
-
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RudraPratap01&show_icons=true&theme=radical" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RudraPratap01&layout=compact&theme=radical" height="160" />
-</p>
-
----
-
-## 🔥 GitHub Streak
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=RudraPratap01&theme=tokyonight" />
+  <img src="https://skillicons.dev/icons?i=c" />
 </p>
 
 ---
@@ -53,13 +31,6 @@ Curious by nature, eager to learn, and excited to build cool things.
 <div align="center">
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 </div>
-
-## ✨ Random Dev Quote
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
-</p>
-
----
 
 ## 📬 Connect With Me
 
