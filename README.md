@@ -9,7 +9,7 @@ Curious by nature, eager to learn, and excited to build cool things.
 
 <!-- Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=F39C12&size=24&center=true&vCenter=true&width=800&lines=Tech+Enthusiast+🔥;fuck+boy%7C+Always+Learning+📚;Curiosity+Is+My+Superpower+💡;Building+Small+Projects+Everyday+🚀" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=F39C12&size=24&center=true&vCenter=true&width=800&lines=Tech+Enthusiast+🔥;+Always+Learning+📚;Curiosity+Is+My+Superpower+💡;Building+Small+Projects+Everyday+🚀" />
 </p>
 
 ---
